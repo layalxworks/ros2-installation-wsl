@@ -56,34 +56,41 @@ The installation was verified by:
 
 ## 🐧 WSL Welcome
 
-![](Wsl-welcome.jpg)
+<p align="center">
+  <img src="Wsl-welcome.jpg" width="500">
+</p>
 
 ---
 
 ## 📦 Ubuntu Installation
 
-![](ubuntu-installation.jpg)
+<p align="center">
+  <img src="ubuntu-installation.jpg" width="500">
+</p>
 
 ---
 
 ## 🔐 Password Authentication Error
 
-![](password-error.jpg)
+<p align="center">
+  <img src="password-error.jpg" width="500">
+</p>
 
 ---
 
 ## 🤖 ROS 2 Successfully Installed
 
-![](ros2-installed.jpg)
+<p align="center">
+  <img src="ros2-installed.jpg" width="500">
+</p>
 
 ---
 
 ## 🎉 Hello World Demo
 
-![](hello-world-demo.jpg)
-
----
-
+<p align="center">
+  <img src="hello-world-demo.jpg" width="500">
+</p>
 ## 🌟 Result
 
 ROS 2 Humble was successfully installed and configured on Ubuntu 22.04 running through WSL. The environment was verified by executing the Hello World publisher demo, confirming that the installation was completed successfully.
